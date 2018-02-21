@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nbcuni.template</groupId>
     <artifactId>test-architype</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>clear</version>
     <name>Archetype - test-architype</name>
     <url>http://maven.apache.org</url>
     <packaging>pom</packaging>
